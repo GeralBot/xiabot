@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│➯ ⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍
+│➯ 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 ✍
 │➯Wa.me/51935763050 (CREADOR)
 │➯Wa.me/51935763050 (CREADOR) 
 │➯Wa.me/51935763050 (CREADOR)
